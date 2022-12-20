@@ -1,0 +1,4 @@
+
+Tablue : https://public.tableau.com/shared/TH9X53M2N?:display_count=n&:origin=viz_share_link
+
+sumber data from kaggle : https://www.kaggle.com/datasets/mathchi/diabetes-data-set
